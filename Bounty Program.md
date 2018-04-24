@@ -1,7 +1,7 @@
 # SOCIAL CHANGE ENGINE BOUNTY PROGRAM
 
 ### -Bounty Manager-
-Address:  0x1715367086bF5Aaf3928d179DdEb78405E8e2ddB
+Address:  [0x1715367086bF5Aaf3928d179DdEb78405E8e2ddB](https://etherscan.io/address/0x1715367086bF5Aaf3928d179DdEb78405E8e2ddB)
 
 Amount:  1000
 
