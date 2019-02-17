@@ -9,7 +9,7 @@
 
         "prettier:js": "prettier --write 'js/**/*.js' --config .prettierrc",
         "start:js": "node js/index.js",
-        
+
     },
     "devDependencies": {
         "@0x/tslint-config": "^1.0.10",
